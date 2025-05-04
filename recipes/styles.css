@@ -1,4 +1,33 @@
 body {
     background-color: black;
+    color: white;
+}
+img {
+    display: block;
+    margin: auto;
+    padding: 20px;
+}
+a {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    border: thick double white;
+    padding: 10px;
+}
+li {
     text-align: center;
+    list-style-type: none;
+    
+}
+h1 {
+    text-align: center;
+    font-size: 80px;
+    font-weight: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: thick double white;
+}
+ul {
+    border: thick solid white;
+    padding: 20px 50px;
+    display: block;
 }
