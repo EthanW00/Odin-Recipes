@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    color: white;
+}
+a {
+    color: white;
+    display: block;
+    text-align: center;
+    border: thick solid white;
+}
+h1 {
+    text-align: center;
+    border: thick double white;
+}
+img {
+    display: block;
+    margin: auto;
+}
+h2 {
+    text-align: center;
+}
+ul {
+    border: solid white;
+    padding: 10px;
+}
+li {
+    margin-left: 20px;
+}
+ol {
+    border: solid white;
+    padding-bottom: 10px;
+}
